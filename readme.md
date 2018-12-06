@@ -1,4 +1,4 @@
-## Hand Movement Tracking [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/yaswanthpalaghat/Hand-Movement-Recognition-using-opencv/LICENSE.txt)  
+## Hand Movement Tracking [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/yaswanthpalaghat/Hand-Movement-Recognition-using-opencv/blob/master/LICENSE)  
 ### Code Requirements
 The example code is in Python 3 and above.
 You need to install opencv library
